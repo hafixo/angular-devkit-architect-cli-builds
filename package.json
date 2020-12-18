@@ -22,7 +22,7 @@
     "@angular-devkit/core": "github:angular/angular-devkit-core-builds#e651ac715",
     "minimist": "1.2.5",
     "progress": "2.0.3",
-    "rxjs": "6.6.2",
+    "rxjs": "6.6.3",
     "symbol-observable": "2.0.0"
   },
   "repository": {
